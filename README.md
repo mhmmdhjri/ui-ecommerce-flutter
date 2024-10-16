@@ -15,10 +15,9 @@ Welcome to **Shopay**, a modern and stylish UI E-Commerce app built with Flutter
 
 ## App Poster
 
-<p align="center">
-  <img src="![Your paragraph text](https://github.com/user-attachments/assets/f063f4a7-a4e9-4833-809b-ae3b2728bf16)
-" alt="Shopay App Poster" width="80%" />
-</p>
+![Your paragraph text](https://github.com/user-attachments/assets/f063f4a7-a4e9-4833-809b-ae3b2728bf16)
+
+
 
 ### Getting Started
 
